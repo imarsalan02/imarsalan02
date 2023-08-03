@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @imarsalan02
+- 👀 I’m interested in app development
+- 🌱 I’m currently persuing MSC IT degree
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me on LinkedIn @imarsalan02
